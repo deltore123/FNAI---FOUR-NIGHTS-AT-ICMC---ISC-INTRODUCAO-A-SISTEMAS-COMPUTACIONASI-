@@ -2,7 +2,7 @@
 # FOUR NIGHTS AT ICMC
 
 Nomes:
-Gabriel Delatore de Brito
+Gabriel Delatore de Brito &
 Giovanni Mazzon Sacheto
 
 

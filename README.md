@@ -56,4 +56,7 @@ Todo o jogo roda em um loop principal (`game_loop`) que alterna entre:
 Foi utilizada a ferramenta em python do gustavo 
 link: https://github.com/GustavoSelhorstMarconi/Create-Screens-in-Assembly-with-python
 
+!atenção
+Para rodar o jogo, é necessario alterar o charmap do simulador, pelo charmap da PROJETO.zip. Sem isso, o jogo não ira rodar adequadamente.
+
 
